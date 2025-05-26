@@ -46,19 +46,9 @@ I'm a passionate student with a love for creating practical solutions and explor
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wsparcie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
   
 ### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-</div>
-
----
-
-<div align="center">
-  ⭐️ From <a href="https://github.com/wsparcie">wsparcie</a>
 </div>
 
 <!--
