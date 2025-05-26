@@ -32,7 +32,7 @@ I'm a passionate student with a love for creating practical solutions and explor
 
 - 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
 - 🔍 **Data Science**: Exploring data analysis and visualization techniques
-- - 🤖 **Automation**: Building tools to automate repetitive tasks
+- 🤖 **Automation**: Building tools to automate repetitive tasks
 - 🌐 **Full-Stack Development**: Expanding skills in modern web frameworks
 
 ---
