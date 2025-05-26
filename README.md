@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm wsparcie
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Web+Scraping+Enthusiast;Algorithm+Explorer;Django+Developer;3D+Modeling+Hobbyist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Algorithm+Explorer;Console+Programs+Lover;Web+Scraping+Enthusiast;3D+Procedural+Modeling+Hobbyist" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate student with a love for creating practical solutions and exploring different aspects of programming. From cybersecurity to web development, from data analysis to 3D modeling - I enjoy diving into diverse technological challenges.
+I'm a passionate student with a love for creating practical solutions and exploring different aspects of programming. From cybersecurity to web development, from data analysis to procedural 3D modeling - I enjoy diving into diverse technological challenges.
 
 ---
 
