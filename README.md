@@ -10,8 +10,6 @@
 
   I'm a passionate cybersecurity student with a love for creating practical solutions and exploring different aspects of programming. From cybersecurity to web development, from data analysis to procedural 3D modeling - I enjoy diving into diverse technological challenges.
 
----
-
 ## 🎯 Current Focus
 
 - 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
