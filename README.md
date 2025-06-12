@@ -13,8 +13,8 @@
 ## 🎯 Current Focus
 
 - 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
-- 🔍 **Data Science**: Exploring data analysis and visualization techniques
 - 🤖 **Automation**: Building tools to automate repetitive tasks
+- 🔍 **Data Science**: Exploring data analysis and visualization techniques
 - 🌐 **Full-Stack Development**: Expanding skills in modern web frameworks
 
 ---
