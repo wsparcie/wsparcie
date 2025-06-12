@@ -12,6 +12,15 @@
 
 ---
 
+## 🎯 Current Focus
+
+- 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
+- 🔍 **Data Science**: Exploring data analysis and visualization techniques
+- 🤖 **Automation**: Building tools to automate repetitive tasks
+- 🌐 **Full-Stack Development**: Expanding skills in modern web frameworks
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -25,15 +34,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsparcie&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
-- 🔍 **Data Science**: Exploring data analysis and visualization techniques
-- 🤖 **Automation**: Building tools to automate repetitive tasks
-- 🌐 **Full-Stack Development**: Expanding skills in modern web frameworks
 
 ---
 
