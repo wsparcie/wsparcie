@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm wsparcie [![Website](https://img.shields.io/badge/Website-wsparcie.github.io-blue)](https://wsparcie.github.io)
+# Hi there! I'm wsparcie [![Website](https://img.shields.io/badge/Website-wsparcie.github.io-blue)](https://wsparcie.github.io)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Algorithm+Explorer;Console+Programs+Lover;Web+Scraping+Enthusiast;3D+Procedural+Modeling+Hobbyist" alt="Typing SVG" />
@@ -6,20 +6,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
   I'm a passionate cybersecurity student with a love for creating practical solutions and exploring different aspects of programming. From cybersecurity to web development, from data analysis to procedural 3D modeling - I enjoy diving into diverse technological challenges.
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🔐 **Security**: Learning about cybersecurity and ethical hacking practices
-- 🤖 **Automation**: Building tools to automate repetitive tasks
-- 🔍 **Data Science**: Exploring data analysis and visualization techniques
-- 🌐 **Full-Stack Development**: Expanding skills in modern web frameworks
+- **Security**: Learning about cybersecurity and ethical hacking practices
+- **Automation**: Building tools to automate repetitive tasks
+- **Data Science**: Exploring data analysis and visualization techniques
+- **Full-Stack Development**: Expanding skills in modern web frameworks
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wsparcie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
