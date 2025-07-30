@@ -1,4 +1,4 @@
-# Hi there! I'm wsparcie        [![GitHub](https://img.shields.io/badge/GitHub-Repository-2196F3?style=for-the-badge)](https://github.com/wsparcie?tab=repositories) [![Portfolio](https://img.shields.io/badge/Website-Summary-2196F3?style=for-the-badge)](https://wsparcie.github.io)
+# Hi there! I'm wsparcie        [![GitHub](https://img.shields.io/badge/GitHub-Repository-2196F3?style=for-the-badge)](https://github.com/wsparcie?tab=repositories) [![Portfolio](https://img.shields.io/badge/Website-Summary-2196F3?style=for-the-badge)](https://wsparcie.github.io)
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Algorithm+Explorer;Console+Programs+Lover;Web+Scraping+Enthusiast;3D+Procedural+Modeling+Hobbyist" alt="Typing SVG" />
 </div>
