@@ -1,4 +1,12 @@
-# Hi there! I'm wsparcie        [![GitHub](https://img.shields.io/badge/GitHub-Projects-2196F3?style=for-the-badge)](https://wsparcie.github.io/projects) [![Portfolio](https://img.shields.io/badge/Website-About_me-2196F3?style=for-the-badge)](https://wsparcie.github.io/aboutme)
+<h1>Hi there! I'm wsparcie</h1>
+<p align="right">
+  <a href="https://wsparcie.github.io/projects">
+    <img src="https://img.shields.io/badge/GitHub-Projects-2196F3?style=for-the-badge" alt="GitHub Projects">
+  </a>
+  <a href="https://wsparcie.github.io/aboutme">
+    <img src="https://img.shields.io/badge/Website-About_me-2196F3?style=for-the-badge" alt="About Me">
+  </a>
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Algorithms+Explorer;Console+Programs+Lover;Web+Scraping+Enthusiast;3D+Procedural+Modeling+Hobbyist;Bootstrap+Addict" alt="Typing SVG" />
 </div>
