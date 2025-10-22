@@ -1,9 +1,9 @@
 <h1>Hi there! I'm wsparcie</h1>
 <p align="right">
-  <a href="https://wsparcie.github.io/projects">
+  <a href="https://wsparcie.dev/projects">
     <img src="https://img.shields.io/badge/GitHub-Projects-2196F3?style=for-the-badge" alt="GitHub Projects">
   </a>
-  <a href="https://wsparcie.github.io/aboutme">
+  <a href="https://wsparcie.dev/aboutme">
     <img src="https://img.shields.io/badge/Website-About_me-2196F3?style=for-the-badge" alt="About Me">
   </a>
 </p>
