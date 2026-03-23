@@ -1,4 +1,4 @@
-# Hi 👋 I'm wsparcie
+# Hi, I'm wsparcie
 
 ## Developer, Cybersecurity Student
 
