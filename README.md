@@ -66,7 +66,6 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 
 <div align="center">
 
-![](https://img.shields.io/github/followers/wsparcie?style=flat-square&color=blue&label=Followers)
 ![](https://img.shields.io/badge/PRs-71-brightgreen?style=flat-square)
 ![](https://img.shields.io/badge/Commits%20(last%20year)-243-blue?style=flat-square)
 
