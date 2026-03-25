@@ -65,13 +65,6 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 ### Activity & Quick Stats
 
 <div align="center">
-
-![](https://img.shields.io/badge/PRs-71-brightgreen?style=flat-square)
-![](https://img.shields.io/badge/Commits%20(last%20year)-243-blue?style=flat-square)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsparcie&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
