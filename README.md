@@ -1,15 +1,6 @@
 # Hi, I'm wsparcie
-
 ## Developer, Cybersecurity Student
-
-<p align="right">
-  <a href="https://wsparcie.dev/projects">
-    <img src="https://img.shields.io/badge/GitHub-Projects-2196F3?style=for-the-badge" alt="GitHub Projects">
-  </a>
-  <a href="https://wsparcie.dev/aboutme">
-    <img src="https://img.shields.io/badge/Website-About_me-2196F3?style=for-the-badge" alt="About Me">
-  </a>
-</p>
+<p align="right"><a href="mailto:kamil.sztabert@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> <a href="https://wsparcie.dev"><img src="https://img.shields.io/badge/wsparcie.dev-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a> <a href="https://www.credly.com/users/kamil-sztabert"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"></a> <a href="https://discord.com/users/809499074968682526"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://www.linkedin.com/in/kamil-sztabert-8b5b70389"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Python+Developer;Algorithms+Explorer;Console+Programs+Lover;Web+Scraping+Enthusiast;3D+Procedural+Modeling+Hobbyist;Bootstrap+Addict" alt="Typing SVG" />
@@ -19,8 +10,11 @@
 
 As a passionate cybersecurity student, I love creating practical solutions and exploring different aspects of programming. From cybersecurity to web development, from data analysis to procedural 3D modeling - I enjoy diving into diverse technological challenges to enhance my skills.
 
-## Skills & Technologies
 
+
+---
+
+## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,bash,powershell,gcp,docker,kubernetes,terraform,postgres,redis,linux,windows,nginx,nodejs,nestjs,django,git,github&perline=10" alt="My Skills" />
@@ -30,7 +24,6 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 ---
 
 ## Current Focus
-
 - **Security**: Learning about cybersecurity and ethical hacking practices
 - **Automation**: Building tools to automate repetitive tasks
 - **Data Science**: Exploring data analysis and visualization techniques
@@ -39,9 +32,7 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 ---
 
 ## GitHub Stats
-
 <div align="center">
-
 <table>
   <tr>
     <td>
@@ -57,13 +48,11 @@ As a passionate cybersecurity student, I love creating practical solutions and e
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
 ### Activity & Quick Stats
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsparcie&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
@@ -71,7 +60,6 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 ---
 
 <div align="center">
-  
-### "Code is like humor. When you have to explain it, it's bad." - Cory House
 
+### "Code is like humor. When you have to explain it, it's bad." - Cory House
 </div>
