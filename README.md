@@ -17,7 +17,7 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 ## Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,cpp,bash,gcp,docker,kubernetes,terraform,postgres,linux,nodejs,nestjs,django,git&perline=7" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,ts,bash,gcp,docker,kubernetes,postgres,linux,nodejs,nestjs,django,git&perline=7" alt="My Skills" />
   </a>
 </p>
 
