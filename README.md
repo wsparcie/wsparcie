@@ -52,13 +52,6 @@ As a passionate cybersecurity student, I love creating practical solutions and e
 
 ---
 
-### Activity & Quick Stats
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsparcie&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
 <div align="center">
 
 ### "Code is like humor. When you have to explain it, it's bad." - Cory House
